@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **jshoffn3@vols.utk.edu**
 
-- 📄 Check me out on Linkedin [https://www.linkedin.com/in/jacobshoffner/](https://www.linkedin.com/in/jacobshoffner/)
-
 - ⚡ Fun fact **I am a gigantic nerd.**
 
 <h3 align="left">Connect with me:</h3>
