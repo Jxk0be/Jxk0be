@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and other front-end frameworks.**
 
-- 👨‍💻 My personal website is here [jxk0be.github.io/Jake-Shoffner](jxk0be.github.io/Jake-Shoffner)
+- 👨‍💻 My personal website is here [jxk0be.github.io/Jake-Shoffner](http://jxk0be.github.io/Jake-Shoffner)
 
 - 📫 How to reach me **jshoffn3@vols.utk.edu**
 
