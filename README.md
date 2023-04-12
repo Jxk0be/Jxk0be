@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **jshoffn3@vols.utk.edu**
 
-- ⚡ Fun fact **I am a gigantic nerd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
