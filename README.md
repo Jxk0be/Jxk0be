@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">A computer science major at the University of Tennessee, Knoxville.</h3>
 
-- 🌱 I’m currently learning **C# and ASP.NET for making REST APIs**.
+- 🌱 I’m currently learning **MERN**.
 
 - 👨‍💻 My personal website is here [jxk0be.github.io/Jake-Shoffner](http://jxk0be.github.io/Jake-Shoffner)
 
